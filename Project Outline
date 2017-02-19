@@ -1,0 +1,21 @@
+# Group-1
+Text Analysis of Demonitisation
+
+
+This Project involves cleaning extraction of tweets which was done by Manish Bhanga. He extracted 19,000 tweets from twitter.
+
+The cleaning of these tweets were done by Nilesh using Regex coding.
+
+Word count logic was peformed by Chirag Modi.
+
+Stop words removal was done Praharsha Singh and Rohan Aher.
+
+Exploratory analysis was done by Rahul Damani.
+
+Positive Sentiments on Demonitization was analyzed by Jitendra Dulhani.
+
+
+The classification of tweets into sentiments like anger, trust and digust and joy was done by Praharsha Singh, Rahul Damani and Rohan Aher.
+
+The changes in positive and negative sentiments with respect to changes in NSE index was a group activity performed by Jitendra Dulhani,
+Nilesh Agrawal, Manish Bhanga and Chirag Modi.
